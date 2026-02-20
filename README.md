@@ -1,4 +1,4 @@
-# Soltren Enterprise Raycaster
+# Soltren Raycaster
 
 A robust, enterprise-grade 3D Raycaster engine built entirely in Rust. It renders a 2D map into a First-Person 3D perspective directly inside your terminal using ASCII characters and the Digital Differential Analysis (DDA) algorithm. 
 
